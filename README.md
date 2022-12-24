@@ -19,13 +19,13 @@ The Kids Crew company provides families with children babysitting and pick up dr
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3.svg?style=for-the-badge&logo=Neo4j&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Cypher-4581C3.svg?style=for-the-badge&logo=Cypher&logoColor=white)
 
 
 ## 👩‍💻 Libraries used
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![](https://img.shields.io/badge/mysql.connector-777BB4?style=for-the-badge&logo=mysql.connector-&logoColor=white)
-![](https://img.shields.io/badge/ordpy-F7931E.svg?style=for-the-badge&logo=ordpy&logoColor=white)
-![](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=Seaborn&logoColor=white)
+![](https://img.shields.io/badge/matplotlib-2C2D72?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ## 📋 Tasks Performed
 * 📑 Database Management

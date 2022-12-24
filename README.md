@@ -1,41 +1,41 @@
-# Kids Crew App Database
+# 👶 Database Modeling for Kids Crew App
 
 #### Our aim is to create a database model for the company KidsCrew and gain insights into how to enhance the quality of service. The primary objective of this study was to design and implement a database solution for the company providing the childcare services.(Created in September 2022-November 2022)
 
+## Background
+The Kids Crew company provides families with children babysitting and pick up drop off services for children in the 1–10-year age group. Sitters looking for part time jobs can register themselves along with their availability. Inturn parents can find a perfect fit based on their budget and time constraints.
 
-* **Task 1:**
-  * Applying HVG(Horizontal Visibility Graph) and NVG(Natural Visibility Graph) to compute average degree, network diameter, and average path length. 
-  * Tabulating all the data for different subjects (1-15) and axes for Head and Chest. 
-  * Creating scatter plots for climbing up, climbing down, walking and running for head and chest in all directions (x,y,z)
-* **Task 2:**
-  * Computing Complexity and Permutation entropy for the data in all three directions (x, y, z)
-  * Tabulating all the data for different subjects (1-15), axes, Embedded Dimensions (3,4,5,6) , Embedded Delay (1,2,3) and Signal Length(1024,2048,4096)
-  * Creating scatter plots for climbing up, climbing down, walking and running for head and chest in all directions (x,y,z)
-
-## Dataset
-The dataset was obtained from [here](https://www.uni-mannheim.de/dws/research/projects/activity-recognition/dataset/). The Human Activity data for 15 individuals for Climbing Up, Climbing Down, Walking and Running was used for the project. The project focuses on accelerometer sensor vibration in three directions (x,y,z) for Head and Chest. 
+## Project Flow
+* Project Proposal 
+* Conceptual and Logical Model
+* Populating Dummy Data (mackaroo.com)
+* Creating database on MySQL with Schema
+* Implementing MySQL Queries (MySQL)
+* Implementing NoSQL Queries (Neo4j)
+* Connecting the MySQL database in Python to visualize and get insights on how the service can be improved 
 
 ## 🏗️ Built with
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3.svg?style=for-the-badge&logo=Neo4j&logoColor=white)
+
 
 ## 👩‍💻 Libraries used
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/mysql.connector-777BB4?style=for-the-badge&logo=mysql.connector-&logoColor=white)
 ![](https://img.shields.io/badge/ordpy-F7931E.svg?style=for-the-badge&logo=ordpy&logoColor=white)
-![](https://img.shields.io/badge/os-F7931E.svg?style=for-the-badge&logo=os&logoColor=white)
 ![](https://img.shields.io/badge/Seaborn-2C2D72?style=for-the-badge&logo=Seaborn&logoColor=white)
 
 ## 📋 Tasks Performed
-* 🔎 Feature Extraction
-* 🔁 Data Manipulation
-* 📊 Data Visualization
-* 📂 Interacting with the data in the system with os library
+* 📑 Database Management
+* 📃 Database Quering
+* 🔎 Graph Databases
+* 📊 Data Analysis
 
 ## ✍️ Authors
 * Sharayu Thosar
-* Ankitha Lakshmisha
-* Fenil Niteshbhai Savani
+* Pranjali Bhatt
 
 ## 🤝 Support
 
